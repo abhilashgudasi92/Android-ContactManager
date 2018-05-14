@@ -25,4 +25,4 @@
 - ViewContact Activity
 
   This screen reuses AddContact activity but the first name,last name, phone number and email id of the contact to be viewed pre filled.
-  User are given option to modify or delete the contact.
+  User is given option to modify or delete the contact.
