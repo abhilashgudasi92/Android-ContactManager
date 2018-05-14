@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="add">Add</string>
+    <string name="exit">Exit</string>
+    <string name="refresh">Refresh</string>
+    <string name="txtFirstName">First Name</string>
+    <string name="txtLastName">Last Name</string>
+    <string name="txtPhoneNumber">Phone Number</string>
+    <string name="btnSave">Save</string>
+    <string name="txtEmail">Email</string>
+    <string name="search">Search</string>
+    <string name="contact">Contact</string>
+    <string name="modify">Modify</string>
+    <string name="delete">Delete</string>
+</resources>

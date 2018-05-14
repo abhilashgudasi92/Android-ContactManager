@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/add" android:icon="@drawable/ic_add_box_black_24dp"
+        app:showAsAction="always|withText"
+        android:title="@string/add"/>
+
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/search"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/ic_contacts_black_24dp"
+        android:title="@string/contact"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/exit"
+        app:showAsAction="never"
+        android:title="@string/exit">
+    </item>
+</menu>
